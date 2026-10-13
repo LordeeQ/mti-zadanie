@@ -13,3 +13,11 @@ exe можно скачать в Actions (Autosalon-windows) или собрат
 вход: admin / admin
 
 отчет пишется в report.txt при закрытии
+
+# скрины
+
+![вход](screenshots/image1.png)
+
+![внутрянка](screenshots/image2.png)
+
+![оформление заказа](screenshots/image3.png)
